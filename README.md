@@ -2,4 +2,4 @@
 hello universe
 
 
-I'll go nto URanus
+I'll go to URanus
